@@ -1,7 +1,7 @@
 # Requisito Funcional
 
 - [X] O usuário deve se cadastrar na aplicação
-- [] O usuário deve poder fazer login na aplicação
+- [X] O usuário deve poder fazer login na aplicação
 - [X] A aplicação deve listar todos os usuários
 - [X] O usuário deve poder atualizar seu cadastro
 - [X] O usuário deve poder excluir seu cadastro
@@ -11,7 +11,7 @@
 
 - [X] Não pode ter cadastro com email repetido
 - [X] O cadastro deve ser feito com payload {nome, email, senha, link_img}
-- [] Só é permitido login com email e senha existente
+- [X] Só é permitido login com email e senha existente
 
 # Requisitos não Funcionais
 
